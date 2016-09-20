@@ -1,3 +1,1 @@
-Este es el propósito del proyecto.
-
-Puede tener datos del proyecto, de los participantes, etc.
+Archivo que contiene la descripción del proyecto, nombre de los miembros, etc...
